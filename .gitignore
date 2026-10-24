@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+data/bronze/
+*.pbix
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+chromedriver*
