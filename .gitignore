@@ -225,4 +225,5 @@ data/bronze/
 .ipynb_checkpoints/
 __pycache__/
 .venv/
-chromedriver*data/silver/airbnb_merged.csv
+chromedriver*
+data/silver/airbnb_merged.csv
